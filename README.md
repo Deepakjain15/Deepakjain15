@@ -27,3 +27,4 @@ I build production web applications with TypeScript, React, Node.js, MongoDB and
 - LinkedIn: https://www.linkedin.com/in/deepak-jain-ab8aa924/
 - RankOTest (live product I work on): https://rankotest.com
 - Architecture case study: https://github.com/Deepakjain15/assessment-platform-architecture
+- AI-assisted SDLC CLI: https://github.com/Deepakjain15/ai-software-engineering-workflow
