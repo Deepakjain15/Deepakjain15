@@ -22,6 +22,16 @@ I build production web applications with TypeScript, React, Node.js, MongoDB and
 - Full-stack products end-to-end (frontend, backend, auth, deployment)
 - AI-assisted developer tooling
 
+## My journey
+
+- **2023 — [Car_brokers](https://github.com/Deepakjain15/Car_brokers):** my very first project. Plain HTML/CSS, a basic car listing page.
+- **2023 — [FoodyGo-mernapp](https://github.com/Deepakjain15/FoodyGo-mernapp):** first full MERN app — React frontend, Node/Express backend, MongoDB, JWT auth, cart and orders.
+- **2024 — [dropshopping-tracker](https://github.com/Deepakjain15/dropshopping-tracker):** learned by reading and extending someone else's codebase instead of only building from scratch.
+- **2026 — [UTTUNGA-Student-Council](https://github.com/Deepakjain15/UTTUNGA-Student-Council) / [Monsoon-atlas](https://github.com/Deepakjain15/Monsoon-atlas):** college projects — responsive multi-page sites, form integrations, cleaner structure.
+- **2026 (TalentXminds) — [assessment-platform-architecture](https://github.com/Deepakjain15/assessment-platform-architecture) & [ai-software-engineering-workflow](https://github.com/Deepakjain15/ai-software-engineering-workflow):** working professionally on RankOTest, and building this AI-assisted SDLC tooling on the side.
+
+Every repo here is still up, warts and all — I'd rather show the actual progression than a highlight reel.
+
 ## Links
 
 - LinkedIn: https://www.linkedin.com/in/deepak-jain-ab8aa924/
